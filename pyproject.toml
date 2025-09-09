@@ -1,6 +1,6 @@
 [project]
 name = "h5py_stubs"
-version = "0.1.1"
+version = "0.1.2"
 description = "Type stubs for H5py"
 authors = [{name="Matteo Bouvier", email="matteo.bouvier@hotmail.fr"}]
 license = "MIT"
